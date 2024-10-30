@@ -1,0 +1,16 @@
+customtkinter
+openai
+elevenlabs
+speechrecognition
+pyaudio
+sounddevice
+numpy
+python-dotenv
+pyvts
+openai
+elevenlabs
+colorama
+customtkinter
+speechrecognition
+asyncio
+os
